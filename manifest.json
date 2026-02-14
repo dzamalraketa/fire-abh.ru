@@ -1,0 +1,21 @@
+{
+  "name": "Fire-Abh.ru - Фаер шоу в Абхазии",
+  "short_name": "Fire-Abh.ru",
+  "description": "Профессиональное огненное шоу в Абхазии. Заказать фаер-шоу на свадьбу, корпоратив, день рождения",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#FF9800",
+  "icons": [
+    {
+      "src": "/assets/img/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
